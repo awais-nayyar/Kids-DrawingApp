@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="true">
+        <!--shape ko dither attribute deny se is ki dimension ratio barkarar rehti hy
+        screen to screen-->
+        <shape android:shape="rectangle" android:dither="true">
+            <stroke android:width="0.5dp"
+                android:color="#C3C3C1"/>
+            <solid android:color="@color/white"/>
+        </shape>
+    </item>
+</selector>

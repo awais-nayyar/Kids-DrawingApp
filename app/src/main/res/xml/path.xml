@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <!--is ki jaga hum ** external-path ** bhi likh sakty thy-->
+    <external-files-path
+        name="external_files"
+        path="." />
+
+
+    <!--is ka matlab yeh k is k andar jitni bhi files hongi ajaen gi-->
+    <!--is path ki jaga hum yeh bhi likh sakty thy
+        path= "Android/data/Kids Drawing/files"-->
+
+    <!--"Android/data/com.example.kidsdrawing/files"-->
+</paths>
